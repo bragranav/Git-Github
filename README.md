@@ -1,1 +1,1 @@
-## Nueva Sección \n Esta es una sección agregada en una rama separada.
+# Mi Proyecto Git \n Este es un proyecto de práctica para aprender Git.
